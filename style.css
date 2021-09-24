@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: blue;
+}
+
+body{
+    display: block;
+}
+
+div {
+    display: block;
+    font-size: 2rem;
+    color: white;
+    margin: 10px;
+}
+
+.box1 {
+    background-color:#363aeb;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: solid 10px #f71568;
+}
+
+.box2 {
+    background-color: f71568;
+    width: 300px;
+    height: 200px;
+    padding: 80px 100px;
+    border: solid 10px #363aeb;
+}
